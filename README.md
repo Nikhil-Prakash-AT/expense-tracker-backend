@@ -43,6 +43,7 @@ A production-ready backend API for an expense tracker, featuring JWT authenticat
   "type": "expense"
 }
 
+``` 
 
 
 ⚙️ Environment Variables
