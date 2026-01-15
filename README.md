@@ -49,7 +49,9 @@ A production-ready backend API for an expense tracker, featuring JWT authenticat
 ⚙️ Environment Variables
 
 MONGO_URI=your_mongodb_uri
+
 JWT_SECRET=your_secret
+
 PORT=5000
 
 
