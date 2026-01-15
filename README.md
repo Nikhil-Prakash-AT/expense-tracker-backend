@@ -48,22 +48,22 @@ A production-ready backend API for an expense tracker, featuring JWT authenticat
 
 ⚙️ Environment Variables
 
-MONGO_URI=your_mongodb_uri
+    MONGO_URI=your_mongodb_uri
 
-JWT_SECRET=your_secret
+    JWT_SECRET=your_secret
 
-PORT=5000
+    PORT=5000
 
 
 🚀 Deployment
 
-Backend deployed on Render
+    Backend deployed on Render
 
-Database hosted on MongoDB Atlas
+    Database hosted on MongoDB Atlas
 
-Live API: https://expense-tracker-backend-87jh.onrender.com
+    Live API: https://expense-tracker-backend-87jh.onrender.com
 
 
 💻 Author
 
-Nikhil Prakash A T 📍 Kerala, India 📧 nikhilprakashat@gmail.com 🕸️ https://github.com/Nikhil-Prakash-AT
+  Nikhil Prakash A T 📍 Kerala, India 📧 nikhilprakashat@gmail.com 🕸️ https://github.com/Nikhil-Prakash-AT
