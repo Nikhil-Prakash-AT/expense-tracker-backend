@@ -60,3 +60,8 @@ Backend deployed on Render
 Database hosted on MongoDB Atlas
 
 Live API: https://expense-tracker-backend-87jh.onrender.com
+
+
+💻 Author
+
+Nikhil Prakash A T 📍 Kerala, India 📧 nikhilprakashat@gmail.com 🕸️ https://github.com/Nikhil-Prakash-AT
