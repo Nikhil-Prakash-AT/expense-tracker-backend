@@ -42,3 +42,20 @@ A production-ready backend API for an expense tracker, featuring JWT authenticat
   "date": "2026-01-13",
   "type": "expense"
 }
+
+
+
+⚙️ Environment Variables
+
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_secret
+PORT=5000
+
+
+🚀 Deployment
+
+Backend deployed on Render
+
+Database hosted on MongoDB Atlas
+
+Live API: https://expense-tracker-backend-87jh.onrender.com
